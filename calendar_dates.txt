@@ -1,0 +1,5 @@
+service_id,date,exception_type
+aaKA1806-1806SU-Sunday-20,20180701,2
+aaKA1806-1806SU-Sunday-20,20180806,1
+aaKA1806-KAM1806-Weekday-13,20180806,2
+aaKA1806-1806SA-Saturday-19,20180701,1

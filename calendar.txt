@@ -1,0 +1,7 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date,feed_days_count,service_days_count,each_day_count,dof,actual_dof,dof_group,regular_service,mf_label
+aaKA1804-KAM1804-Weekday-10,1,1,1,1,1,0,0,20180525,20180622,100,21,0;4;4;4;4;5;0,12345,,,0.35,
+aaKA1709-KAMSEP17-Saturday-18,0,0,0,0,0,1,0,20180526,20180623,100,5,0;0;0;0;0;0;5,6,,,0.35,
+aaKA1709-KAMSEP17-Sunday-18,0,0,0,0,0,0,1,20180527,20180617,100,4,4;0;0;0;0;0;0,0,,,0.28,
+aaKA1806-1806SU-Sunday-20,0,0,0,0,0,0,1,20180624,20180826,100,10,9;1;0;0;0;0;0,0,,,0.63,
+aaKA1806-KAM1806-Weekday-13,1,1,1,1,1,0,0,20180625,20180831,100,49,0;9;10;10;10;10;0,12345,2345,1,0.7,TWThF
+aaKA1806-1806SA-Saturday-19,0,0,0,0,0,1,0,20180630,20180901,100,11,1;0;0;0;0;0;10,6,6,2,0.7,
