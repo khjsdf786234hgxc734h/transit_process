@@ -5,7 +5,9 @@ alter database `cicamica$db_transit` character set utf8 collate utf8_unicode_ci;
 drop table if exists `trips`;
 drop table if exists `stop_times`;
 
-create table if not exists `trips` (
+
+create table if not exists `trips`
+(
      `route_id`       varchar(100) not null primary key
     ,`service_id`     varchar(100)
     ,`block_id`       int(6)
@@ -23,7 +25,9 @@ create table if not exists `trips` (
     ,`hierarchy`      int(6)
 );
 
-create table if not exists `stop_times` (
+
+create table if not exists `stop_times`
+(
      `trip_id`        varchar(100) not null primary key
     ,`arrival_time`   varchar(100)
     ,`departure_time` varchar(100)
